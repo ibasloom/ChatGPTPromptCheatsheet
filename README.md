@@ -71,3 +71,7 @@ Consult an expert:"I will give you a sample of my writing. I want you to critici
 ```
 "I have 3 days free in a week and 2 months. Make a crash study plan diving into English literature and grammar."
 ```
+
+# Thanks 
+
+## @ichaush3
